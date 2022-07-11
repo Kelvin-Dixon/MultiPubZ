@@ -17,5 +17,8 @@
     <Setting Name="DaysToAdd" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">2</Value>
     </Setting>
+    <Setting Name="PubToMatch" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SUSED1</Value>
+    </Setting>
   </Settings>
 </SettingsFile>
