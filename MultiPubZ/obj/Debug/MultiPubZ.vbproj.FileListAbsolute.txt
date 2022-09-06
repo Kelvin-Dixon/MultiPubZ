@@ -1,0 +1,24 @@
+D:\Repos\MultiPubZ\MultiPubZ\bin\Debug\MultiPubZ.exe.config
+D:\Repos\MultiPubZ\MultiPubZ\bin\Debug\MultiPubZ.exe
+D:\Repos\MultiPubZ\MultiPubZ\bin\Debug\MultiPubZ.pdb
+D:\Repos\MultiPubZ\MultiPubZ\bin\Debug\MultiPubZ.xml
+D:\Repos\MultiPubZ\MultiPubZ\obj\Debug\MultiPubZ.Resources.resources
+D:\Repos\MultiPubZ\MultiPubZ\obj\Debug\MultiPubZ.vbproj.GenerateResource.cache
+D:\Repos\MultiPubZ\MultiPubZ\obj\Debug\MultiPubZ.vbproj.CoreCompileInputs.cache
+D:\Repos\MultiPubZ\MultiPubZ\obj\Debug\MultiPubZ.exe
+D:\Repos\MultiPubZ\MultiPubZ\obj\Debug\MultiPubZ.xml
+D:\Repos\MultiPubZ\MultiPubZ\obj\Debug\MultiPubZ.pdb
+D:\Repos\MultiPubZ\MultiPubZ\obj\Debug\MultiPubZ.vbproj.AssemblyReference.cache
+D:\Repos\MultiPubZ\MultiPubZ\obj\Debug\MultiPubZ.vbproj.SuggestedBindingRedirects.cache
+D:\Repos\MultiPubZ - Copy\MultiPubZ\bin\Debug\MultiPubZ.exe.config
+D:\Repos\MultiPubZ - Copy\MultiPubZ\bin\Debug\MultiPubZ.exe
+D:\Repos\MultiPubZ - Copy\MultiPubZ\bin\Debug\MultiPubZ.pdb
+D:\Repos\MultiPubZ - Copy\MultiPubZ\bin\Debug\MultiPubZ.xml
+D:\Repos\MultiPubZ - Copy\MultiPubZ\obj\Debug\MultiPubZ.vbproj.AssemblyReference.cache
+D:\Repos\MultiPubZ - Copy\MultiPubZ\obj\Debug\MultiPubZ.vbproj.SuggestedBindingRedirects.cache
+D:\Repos\MultiPubZ - Copy\MultiPubZ\obj\Debug\MultiPubZ.Resources.resources
+D:\Repos\MultiPubZ - Copy\MultiPubZ\obj\Debug\MultiPubZ.vbproj.GenerateResource.cache
+D:\Repos\MultiPubZ - Copy\MultiPubZ\obj\Debug\MultiPubZ.vbproj.CoreCompileInputs.cache
+D:\Repos\MultiPubZ - Copy\MultiPubZ\obj\Debug\MultiPubZ.exe
+D:\Repos\MultiPubZ - Copy\MultiPubZ\obj\Debug\MultiPubZ.xml
+D:\Repos\MultiPubZ - Copy\MultiPubZ\obj\Debug\MultiPubZ.pdb

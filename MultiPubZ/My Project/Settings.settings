@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="InputFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Scripts\NatFeat\Input</Value>
+    </Setting>
+    <Setting Name="ErrorFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Scripts\NatFeat\Error</Value>
+    </Setting>
+    <Setting Name="MatchedFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Scripts\NatFeat\MatchedFolder</Value>
+    </Setting>
+    <Setting Name="PubList" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PRSED1,DOMED1,WATED1,SOTED1,TADED1,MADED1,MAEED1,NEMED1,TIHED1</Value>
+    </Setting>
+    <Setting Name="DaysToAdd" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="PubToMatch" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SUSED1</Value>
+    </Setting>
+    <Setting Name="SectionToMatch" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Z</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
